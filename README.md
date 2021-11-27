@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pooja0305
-- 👀 I’m interested in cybsec
+- 👀 I’m interested in tech
 - 🌱 I’m currently learning engineering
 - 💞️ I’m looking to collaborate on tech stuffs cybesec and python codes
 - 📫 How to reach me email
