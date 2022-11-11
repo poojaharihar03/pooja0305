@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pooja0305
 - 👀 I’m interested in tech and data science
-- 🌱 I’m currently student at BIT
-- 💞️ I’m looking to collaborate on programming and techs
 - 📫 How to reach me email- hariharpooja2007@gmail.com
 
 <!---
