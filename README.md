@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pooja harihar</h1>
+<h1 align="center">Hi 👋, I'm Pooja Harihar</h1>
 <h3 align= "left">👀 I’m interested in data analytics and data science </h3>
 
 <h3 align="left">📫 How to reach me email- hariharpooja2007@gmail.com</h3>
