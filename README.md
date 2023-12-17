@@ -9,9 +9,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Power_BI_logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>
   
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -85,10 +82,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" alt="Linux" width="40" height="40"/>
   </a>
   
-  <a href="https://www.ibm.com/cloud/learn/data-analytics" target="_blank" rel="noreferrer">
-    <img src="https://www.ibm.com/cloud/architecture/images/icon-data-analytics.svg" alt="Data Analytics" width="40" height="40"/>
-  </a>
 </p>
 
-
-![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=poojaharihar03&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojaharihar03&show_icons=true&locale=en&layout=compact" alt="poojaharihar03" /></p>
