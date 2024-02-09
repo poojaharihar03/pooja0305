@@ -2,10 +2,10 @@
 <h3 align= "left">👀 I’m interested in data analytics and data science </h3>
 <p align="left"> <a href="https://twitter.com/pooja_0305" target="blank"><img src="https://img.shields.io/twitter/follow/pooja_0305?logo=twitter&style=for-the-badge" alt="pooja_0305" /></a> </p>
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 500px></picture>
-<br/>
+
 
 <h3 align="left">📫 How to reach me email- hariharpooja2007@gmail.com</h3>
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 500px></picture>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pooja_0305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pooja_0305" height="30" width="40" /></a>
