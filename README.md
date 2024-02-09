@@ -91,6 +91,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   </a>
 </p>
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojaharihar03&show_icons=true&locale=en&layout=compact" alt="poojaharihar03" /></p>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=poojaharihar03&show_icons=true&locale=en" alt="poojaharihar03" /></p>
+</div>
