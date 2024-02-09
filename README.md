@@ -82,6 +82,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/>
   </a>
+
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
+</a>
+
   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" alt="Linux" width="40" height="40"/>
