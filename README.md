@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pooja Harihar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=042D5E&size=33&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile!;I'm+passionate+about+data+analytics+and+science.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=042D5E&size=33&center=true&vCenter=true&lines= Hi 👋, I'm Pooja Harihar!;I'm+passionate+about+data+analytics+and+science.">
 </p>
 <p align="center">
   <a href="https://twitter.com/pooja_0305" target="blank">
