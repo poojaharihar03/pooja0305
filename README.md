@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%20👋%2C%20I'm%20Pooja%20Harihar](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%20👋%2C%20I'm%20Pooja%20Harihar)](https://git.io/typing-svg)
+
 <h3 align= "left">👀 I’m interested in data analytics and data science </h3>
 <p align="left"> <a href="https://twitter.com/pooja_0305" target="blank"><img src="https://img.shields.io/twitter/follow/pooja_0305?logo=twitter&style=for-the-badge" alt="pooja_0305" /></a> </p>
 
