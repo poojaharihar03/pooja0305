@@ -81,7 +81,6 @@
     <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="40" height="40"/>
     <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="32"/>
   </a>
-
   <a href="https://www.streamlit.io/" target="_blank" rel="noreferrer">
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/>
   </a>
@@ -89,11 +88,8 @@
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://developer.android.com/studio/images/studio-icon-preview.svg" alt="Android Studio" width="40" height="40"/>
   </a>
-
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="32"/>
   </a>  
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="Swift" width="40" height="40"/>
     <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="Swift" width="32"/>
   </a>
 
@@ -106,8 +102,7 @@
   </a>
 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/>
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="32"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="32"/>
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
