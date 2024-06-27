@@ -73,19 +73,31 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwind CSS logo" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="bootstrap logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="32" alt="vercel logo"  />
-  <img width="14" />
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=scikit-learn" height="32" alt="scikit-learn logo" />
-  <img width="14" />
+</a>
+<img width="14" />
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="32" alt="TensorFlow logo" />
-  <img width="14" />
+</a>
+<img width="14" />
+<a href="https://www.streamlit.io/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=streamlit" height="32" alt="Streamlit logo" />
-  <img width="14" />
+</a>
+<img width="14" />
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=swift" height="32" alt="Swift logo" />
-  <img width="14" />
+</a>
+<img width="14" />
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=seaborn" height="32" alt="Seaborn logo" />
-  <img width="14" />
+</a>
+<img width="14" />
+
+
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
+</a>
 
 
 </div>
