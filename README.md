@@ -74,30 +74,59 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwind CSS logo" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="bootstrap logo"  />
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=scikit-learn" height="32" alt="scikit-learn logo" />
-</a>
-<img width="14" />
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="32" alt="TensorFlow logo" />
-</a>
-<img width="14" />
-<a href="https://www.streamlit.io/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=streamlit" height="32" alt="Streamlit logo" />
-</a>
-<img width="14" />
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=swift" height="32" alt="Swift logo" />
-</a>
-<img width="14" />
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=seaborn" height="32" alt="Seaborn logo" />
-</a>
-<img width="14" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
 
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="40" height="40"/>
+    <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="32"/>
+  </a>
+
+  <a href="https://www.streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://developer.android.com/studio/images/studio-icon-preview.svg" alt="Android Studio" width="40" height="40"/>
+  </a>
+
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="32"/>
+  </a>  
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="Swift" width="40" height="40"/>
+    <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="Swift" width="32"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
+  </a>
+
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  </a>
+
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="32"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/>
+  </a>
 
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
 </a>
+</div>
+
+
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" alt="Linux" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  </a>
 
 
 </div>
