@@ -69,24 +69,25 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=arduino" height="32" alt="arduino logo"  />
   <img width="14" />
+  <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwind CSS logo" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="bootstrap logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=vercel" height="32" alt="vercel logo"  />
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="32"/>
-  </a>
-  <a href="https://www.streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="32"/>
-  </a>  
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="Swift" width="32"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="32"/>
-  </a>
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=scikit-learn" height="32" alt="scikit-learn logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="32" alt="TensorFlow logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=streamlit" height="32" alt="Streamlit logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=swift" height="32" alt="Swift logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=seaborn" height="32" alt="Seaborn logo" />
+  <img width="14" />
+
+
 </div>
 
   
